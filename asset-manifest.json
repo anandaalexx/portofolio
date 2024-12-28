@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portofolio/static/css/main.2a693df1.css",
+    "main.js": "/portofolio/static/js/main.044cd9ed.js",
+    "static/media/liberty.png": "/portofolio/static/media/liberty.fd76b048f70b38f42cca.png",
+    "static/media/logo-kpi-fix-1633658890.png": "/portofolio/static/media/logo-kpi-fix-1633658890.0b6eb36185e6dbb0ed36.png",
+    "static/media/Lambang_ITK.png": "/portofolio/static/media/Lambang_ITK.32460124a3c3b91eb86f.png",
+    "static/media/smk1.png": "/portofolio/static/media/smk1.3570f147ed2e99183c32.png",
+    "static/media/foto.jpeg": "/portofolio/static/media/foto.6f7aa8f1b9ea8fd4483b.jpeg",
+    "static/media/itkombat.jpg": "/portofolio/static/media/itkombat.82f5f740a6d80f380b31.jpg",
+    "index.html": "/portofolio/index.html",
+    "main.2a693df1.css.map": "/portofolio/static/css/main.2a693df1.css.map",
+    "main.044cd9ed.js.map": "/portofolio/static/js/main.044cd9ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a693df1.css",
+    "static/js/main.044cd9ed.js"
+  ]
+}
